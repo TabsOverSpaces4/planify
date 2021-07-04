@@ -46,7 +46,7 @@ class _LoginState extends State<Login> {
                 FadeAnimation(
                   1,
                   Text(
-                    "CRYPTRACK",
+                    "PLANZEE",
                     style: TextStyle(
                       fontSize: 30,
                       color: Colors.white,
